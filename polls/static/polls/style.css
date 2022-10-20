@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(87, 87, 194, 0.79);
+    font-family: Verdana, sans-serif;
+}
+
+.container {
+    background-color: aliceblue;
+    margin: auto;
+    border-style: solid;
+    max-width: 500px;
+    align-self: auto;
+}
+
+.title {
+    text-align: center;
+    font-family: Garamond, serif;
+    margin: 10px;
+    padding-top: 10px;
+}
